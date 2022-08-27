@@ -1,0 +1,15 @@
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\bin\Debug\net6.0\ESTRUTURADOPROGRAMA.exe
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\bin\Debug\net6.0\ESTRUTURADOPROGRAMA.deps.json
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\bin\Debug\net6.0\ESTRUTURADOPROGRAMA.runtimeconfig.json
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\bin\Debug\net6.0\ESTRUTURADOPROGRAMA.dll
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\bin\Debug\net6.0\ESTRUTURADOPROGRAMA.pdb
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\ESTRUTURADOPROGRAMA.csproj.AssemblyReference.cache
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\ESTRUTURADOPROGRAMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\ESTRUTURADOPROGRAMA.AssemblyInfoInputs.cache
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\ESTRUTURADOPROGRAMA.AssemblyInfo.cs
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\ESTRUTURADOPROGRAMA.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\ESTRUTURADOPROGRAMA.dll
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\refint\ESTRUTURADOPROGRAMA.dll
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\ESTRUTURADOPROGRAMA.pdb
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\ESTRUTURADOPROGRAMA.genruntimeconfig.cache
+C:\Users\Douglas\Documents\Projetos\Primeiros passos com .NET\01 - ESTRUTURADOPROGRAMA\obj\Debug\net6.0\ref\ESTRUTURADOPROGRAMA.dll
